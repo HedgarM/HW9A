@@ -1,0 +1,20 @@
+{
+  "name": "hw9a",
+  "version": "1.0.0",
+  "description": "HW9A IS445",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HedgarM/HW9A.git"
+  },
+  "author": "Hedgar Marin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HedgarM/HW9A/issues"
+  },
+  "homepage": "https://github.com/HedgarM/HW9A#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
